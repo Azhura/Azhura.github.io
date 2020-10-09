@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Acerca de
 
-Apasionado por el conocimiento la tecnología y el desarrollo de ideas, estoy interesado en el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando la evolución de mis aptitudes. Pienso que todo se puede lograr con esfuerzo práctica , dedicación y pasión.
+Apasionado por el conocimiento la tecnología y el desarrollo de ideas, estoy interesado en el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando la evolución de mis aptitudes.
 
 ### Contacto
 
