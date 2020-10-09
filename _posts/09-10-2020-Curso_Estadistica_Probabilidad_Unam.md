@@ -14,5 +14,6 @@ Desde lo personal la experiencia es buena, son videos muy cortos de duración, t
 Muchos de los contenidos no son explicados a fondo, pero una de las cosas positivas que me gusto es que a diferencia de otros cursos que hice es que el material con el que se 
 trabaja lo hacen por medio de una herramienta llamada [CODAP](https://codap.concord.org/).
 
-continuará ...
+continuará ...   
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
