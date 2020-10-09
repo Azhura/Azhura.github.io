@@ -9,7 +9,7 @@ name: Carlos Alberto Gómez Prado
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/5177532?s=460&u=54bc2c0823b1b93604215bc5a660d7a7e5da2e7b&v=4
+avatar: https://media-exp1.licdn.com/dms/image/C4E03AQFd0xtvNbyhrQ/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=6iNfieJxo7OqX7v56Zdi4KVpU05j0kpYVArQ9kdNIeQ
 #
 # Flags below are optional
 #
@@ -18,16 +18,16 @@ avatar: https://avatars0.githubusercontent.com/u/5177532?s=460&u=54bc2c0823b1b93
 footer-links:
   dribbble:
   email: carlosprado27@gmail.com
-  facebook: 
+  facebook: https://www.facebook.com/CarlosPrado270
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/Azhura
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/carlospradobigdata
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: https://twitter.com/CarlosBigdata
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCB7G9xBq1BNJdSTufUtkRAA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
