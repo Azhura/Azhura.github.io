@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /Acerca de/
+title: Información Personal
+permalink: /about/
 ---
 ### Acerca de
 
