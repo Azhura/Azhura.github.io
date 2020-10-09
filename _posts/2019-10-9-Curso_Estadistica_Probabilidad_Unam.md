@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Curso: de otra cosa
+title: Curso de otra cosa
 ---
 
-Voy a contarles mi experiencia con el curso.
+Voy a contarles otra cosa.
 
 
 continuará ...   
