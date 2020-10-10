@@ -16,7 +16,6 @@ Una de las cosas que más me gusto fue la ejercitación interactiva con los núm
 [![ScreenShot](https://codap.concord.org/wp-content/themes/cc/img/codap-logo.png)](https://codap.concord.org/wp-content/uploads/2017/03/codap.mp4)
 
 La misma permite visualizar los datos de una manera muy intuitiva y realizar todos los trabajos necesarios, sin saber programar. Partiendo de que es una herramienta de estudio gratuita , podes hacer muchas cosas interesantes como visualizaciones y experimentos con animaciones, la verdad muy práctica y divertida.
-Tiene algunas limitaciones ya que al jugar un poco con los colores que trae el programa a veces se tilda y no te deja guardar y tiene algún que otro bug, sin embargo la recomiendo para estudiar y practicar.   
 
 #### Entorno de trabajo
 ![CODAP](https://codap.concord.org/wp-content/themes/cc/img/explore-data.jpg)
@@ -32,7 +31,8 @@ Tiene algunas limitaciones ya que al jugar un poco con los colores que trae el p
 
 **Pros:**   
 
-* Curso gratuito de muy buen nivel realmente interesante con todo el contenido libre dictado por un profe que sabe.   
+* Curso gratuito de muy buen nivel realmente interesante con todo el contenido libre dictado por un profe que sabe. 
+* Mucha gente en los foros para consultar ,intercambiar ideas o ayudar.   
 * Buena edición de los videos , son claros , precisos, ideal para personas con poco tiempo.   
 * Buena interacción de datos con el software logrando un buen entendimiento numérico y visual.   
 
@@ -40,17 +40,18 @@ Tiene algunas limitaciones ya que al jugar un poco con los colores que trae el p
 
 * Para poder acceder al diploma que no es obligatorio, tendrás que pagar 50 dólares para obtenerlo.   
 * La espera para el trabajo final puede ser un poco larga ya que tiene que ser evaluada por 3 compañeros y tú tendrás que evaluar también 3 pruebas de tus compañeros. 
-* Algunas cosas no se explican a fondo por ejemplo lo que es una regresión lineal o algunas cosas básicas para los mas nuevos.
+* Algunas cosas no se explican a fondo por ejemplo lo que es una regresión lineal o la parte de probabilidad es un poco confusa.
+* El foro esta un poco abandonado de mentores.
      
 ### Conclusión   
 
-Use el curso para repasar conceptos básicos de estadísticas y probabilidad y la verdad quede con ganas de mas. Se los recomiendo a todos los principiantes o personas que quieran algo rapido para repasar conceptos bien explicados en poco tiempo y darle un buen uso a tu calculadora vieja "Casio FX82".
+Use el curso para repasar conceptos básicos de estadísticas y probabilidad y la verdad cumplio con mi espectativa, he quedado con ganas de mas. Se los recomiendo a todos los principiantes o personas que quieran algo rapido para repasar conceptos básicos en poco tiempo y darle un buen uso a tu calculadora vieja "Casio FX82".
 
 #### Fuentes y recursos
 
 [Curso](https://www.coursera.org/learn/estadistica-probabilidad)   
 [CODAP](https://codap.concord.org/)   
 [KhanAcademy](https://es.khanacademy.org/)   
-[Casio fx-82ES](http://3con14.com/104-%C3%BAtiles/software/27-i-%C2%B7-calculadora-casio-fx-82es-emulador-software.html)
-[Reporte parte 1](https://github.com/Azhura/Cursos/blob/master/Reportes/Trabajo_Final_p1.pdf).
-[Reporte parte 2](https://github.com/Azhura/Cursos/blob/master/Reportes/Trabajo_Final_p2.pdf). 
+[Casio fx-82ES](http://3con14.com/104-%C3%BAtiles/software/27-i-%C2%B7-calculadora-casio-fx-82es-emulador-software.html)  
+[Reporte parte 1](https://github.com/Azhura/Cursos/blob/master/Reportes/Trabajo_Final_p1.pdf)   
+[Reporte parte 2](https://github.com/Azhura/Cursos/blob/master/Reportes/Trabajo_Final_p2.pdf)    
