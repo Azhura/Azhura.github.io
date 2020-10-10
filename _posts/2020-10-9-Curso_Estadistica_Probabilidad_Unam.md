@@ -36,7 +36,7 @@ La misma permite visualizar los datos de una manera muy intuitiva y realizar tod
 * Buena edición de los videos , son claros , precisos, ideal para personas con poco tiempo.   
 * Buena interacción de datos con el software logrando un buen entendimiento numérico y visual.   
 
-**Contra**   
+**Contras**   
 
 * Para poder acceder al diploma que no es obligatorio, tendrás que pagar 50 dólares para obtenerlo.   
 * La espera para el trabajo final puede ser un poco larga ya que tiene que ser evaluada por 3 compañeros y tú tendrás que evaluar también 3 pruebas de tus compañeros. 
