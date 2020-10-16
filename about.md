@@ -28,7 +28,7 @@ Actividades: Soporte Técnico para el cliente Telefónica (Speedy).
 Redes,seguridad. Servicios adicionales, pruebas de tensión electrica.      
 Seguimientos de tickets y reclamos. Sectores Outbound , Inbound.   
 
-### Educación de Grado
+### Educación
 
 **INSTITUTO SUPERIOR SANTO DOMINGO (ISSD)**     
 **2007 - 2009** - (Córdoba Capital, Argentina)  
@@ -38,7 +38,7 @@ Carrera: Análisis en Sistemas de Información.
 **1995 - 2003** (Posadas Misiones, Argentina)     
 Secundario: Técnico en Informática. 
 
-### Educación Certificada
+### Logros y Certificaciones
 
 **Comisión Nacional De Actividades Espaciales (CONAE)**     
 **2020** - (Córdoba Capital, Argentina)  
