@@ -18,10 +18,10 @@ Reparación y mantenimiento de equipos(PC, Nootebook ,tablet).
 Seguridad, correo, backup´s. Recuperacion de datos, clonaciones.  
 Desarrollo de proyectos digitales (diseño, programación, música).   
 
-#### Why Not? - (Diseño - Programación - Composición)
-**Marzo 2012 - 2015 -  Córdoba , Argentina** 
-Actividades: Desarrollo de proyectos digitales (diseño, programación, música). 
-Creación de contenido audiovisual, composiciones musicales, diseño gráfico del producto.
+#### Why Not? - (Diseño - Programación - Composición)   
+**Marzo 2012 - 2015 -  Córdoba , Argentina**    
+Actividades: Desarrollo de proyectos digitales (diseño, programación, música).    
+Creación de contenido audiovisual, composiciones musicales, diseño gráfico del producto.  
 
 
 
