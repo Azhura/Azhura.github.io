@@ -20,9 +20,9 @@ Seguridad, correo, backup´s. Recuperacion de datos, clonaciones.
 **Why Not? - Diseño - Programación - Composición**   
 **2012 - 2015** (Córdoba Capital, Argentina)     
 Actividades: Desarrollo de proyectos digitales (diseño, programación, música).    
-Creación de contenido audiovisual, composiciones musicales, diseño gráfico del producto.  
+Creación de contenido audiovisual, composiciones musicales, diseño gráfico.  
 
-**APEX América - HELP DESK**     
+**APEX América - Help Desk**     
 **2006 - 2012** - (Córdoba Capital, Argentina)   
 Actividades: Soporte Técnico para el cliente Telefónica (Speedy).   
 Redes,seguridad. Servicios adicionales, pruebas de tensión electrica.      
