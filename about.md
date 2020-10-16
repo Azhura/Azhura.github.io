@@ -11,7 +11,7 @@ Mis conocimientos abarcan múltiples categorias, partiendo desde la programació
 ### Experiencia Laboral
 
 #### Freelance - (HELP DESK - IT SUPPORT) 
-**Marzo 2012 - 2020 -  Córdoba , Argentina**
+**Marzo 2012 - 2020 -  Córdoba , Argentina**   
 Actividades: Soporte Técnico on site & remoto(TeamView).   
 Instalación de sistemas operativos (Win, Linux, Mac).   
 Reparación y mantenimiento de equipos(PC, Nootebook ,tablet).    
