@@ -46,15 +46,14 @@ Secundario: Técnico en Informática.
 * [Teledetección SAR - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_SAR.jpg)   
 * [Teledetección Aplicada al color del océano - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_Oceano.jpg)   
 
-**International Business Machines [(IBM)](https://www.ibm.com),[(Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science?)**     
-**2020** - [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg) 
-
+**International Business Machines [(IBM)](https://www.ibm.com)**     
+**2020** - [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg)[(Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science?)   
 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)   
 2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)   
 3. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)   
 4. [Python for Data Science and AI](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)   
-5. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)   
-6. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)  
+5. [Databases and SQL for Data Science](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science.jpg)   
+6. [Data Analysis with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Data%20Analysis%20with%20Python.jpg)  
 7. [Data Visualization with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Data%20Visualization%20with%20Python.jpg)   
 8. [Machine Learning with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Machine%20Learning%20with%20Python.jpg)   
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
