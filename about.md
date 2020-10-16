@@ -58,7 +58,7 @@ Secundario: Técnico en Informática.
 
 **Coursera: Matemáticas, Estadística Descriptiva, Probabilidad, Ciencia de Datos, Programación**     
 **2019** [Álgebra Básica](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)  
-**2019** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg.jpg) 
+**2019** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg) 
 
 ## Contacto
 
