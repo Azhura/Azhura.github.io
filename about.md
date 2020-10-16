@@ -5,8 +5,8 @@ permalink: /about/
 ---
 ### Acerca de
 
-<p>Apasionado por el conocimiento y el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando siempre evolucionar.   
-Mis conocimientos abarcan múltiples categorias, partiendo desde la programación informática , análisis y mantenmimientos de sistemas informáticos, hardware, exploración de datos, creación de algoritmos inteligentes, diseño ,creación de productos y simulaciones de modelos virtuales y estadísticos.</p>
+Apasionado por el conocimiento y el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando siempre evolucionar.      
+Mis conocimientos abarcan múltiples categorias, partiendo desde la programación informática , análisis y mantenmimientos de sistemas informáticos, hardware, exploración, visualización y análisis de datos(Big Data), creación de algoritmos inteligentes(machine learning, deep learning), aplicaciones con geolocalización(Satelites Ópticos y SAR) diseño ,creación de productos y simulaciones de modelos virtuales y estadísticos.
 
 ### Experiencia Laboral
 
