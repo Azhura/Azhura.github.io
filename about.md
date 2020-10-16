@@ -10,7 +10,7 @@ Mis conocimientos abarcan múltiples categorias, partiendo desde la programació
 
 ### Experiencia Laboral
 
-**Freelance - Help Desk - IT Support** 
+**Freelance - Help Desk - IT Support**     
 **2012 - 2020** - (Córdoba Capital, Argentina)  
 Actividades: Soporte Técnico on site & remoto(TeamView).   
 Instalación de sistemas operativos (Win, Linux, Mac).   
