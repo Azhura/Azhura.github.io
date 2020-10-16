@@ -40,7 +40,7 @@ Secundario: Técnico en Informática.
 
 ### Logros y Certificaciones
 
-**Comisión Nacional De Actividades Espaciales (CONAE)**     
+**Comisión Nacional De Actividades Espaciales [(CONAE)](https://www.argentina.gob.ar/ciencia/conae/unidad-educacion/cursos-y-capacitaciones)**     
 **2020** - (Córdoba Capital, Argentina)  
 * [Teledetección Aplicada al color del océano - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_Oceano.jpg)
 * [Teledetección SAR - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_SAR.jpg)
