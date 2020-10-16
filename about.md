@@ -42,9 +42,9 @@ Secundario: Técnico en Informática.
 
 **Comisión Nacional De Actividades Espaciales (CONAE)**     
 **2020** - (Córdoba Capital, Argentina)  
-**Curso:** Teledetección Aplicada al color del océano - Nivel Introductorio.
-**Curso:** Teledetección SAR - Nivel Introductorio.
-**Curso:** Introducción a la Teledetección.
+**Curso:** Teledetección Aplicada al color del océano - Nivel Introductorio.   
+**Curso:** Teledetección SAR - Nivel Introductorio.   
+**Curso:** Introducción a la Teledetección.   
 
 ### Contacto
 
