@@ -62,12 +62,18 @@ Secundario: Técnico en Informática.
 * **2019 - UNAM** [Álgebra Básica](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)     
 * **2019 - UNAM** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg)    
 
-**Plataforma Udemy**  
-* **2019** [Programación en C++](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/Cplusplus.jpg) 
-* **2019** [Programación en C](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/C.jpg)    
-* **2019** [Curso completo de Estadística descriptiva - Rstudio y Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ED_Python_R.jpg)    
+**Plataforma Udemy**
+* **2020** [Tableau: Business Intelligence básico de gestión comercial](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/Tableau.jpg)
+* **2019** [Python3](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/Python3.jpg)  
+* **2019** [Curso completo de Estadística descriptiva - Rstudio y Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ED_Python_R.jpg)  
 * **2019** [Curso básico de Machine Learning](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ML.jpg)     
-* **2019** [Curso completo de Machine Learning: Data Science en Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ML_Ds__page-0001.jpg)  
+* **2019** [Curso completo de Machine Learning: Data Science en Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ML_Ds__page-0001.jpg)   
+* **2019** [Curso básico de Amazon AWS](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/aws.jpg) 
+* **2019** [Introduction to DB and SQL](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/intro_db.jpg)  
+* **2019** [Oracle SQL](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/oracle_sql.jpg)  
+* **2019** [Programación en C](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/C.jpg)    
+* **2019** [Programación en C++](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/Cplusplus.jpg)  
+
 
 
 ## Contacto
