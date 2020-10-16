@@ -47,7 +47,7 @@ Secundario: Técnico en Informática.
 * [Teledetección Aplicada al color del océano - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_Oceano.jpg)   
 
 **International Business Machines [(IBM)](https://www.ibm.com)**     
-**2020** - [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg)[(Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science?)   
+**2020 - Coursera** - [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg)  
 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)   
 2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)   
 3. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)   
