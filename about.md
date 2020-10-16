@@ -56,9 +56,11 @@ Secundario: Técnico en Informática.
 8. [Machine Learning with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Machine%20Learning%20with%20Python.jpg)   
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
 
-**Coursera: Matemáticas, Estadística Descriptiva, Probabilidad, Ciencia de Datos, Programación**     
-**2019** [Álgebra Básica](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)  
-**2019** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg) 
+**Plataforma Coursera - Matemáticas,Estadística,Probabilidad,Ciencia de Datos,Programación**     
+**2020 - UNAM** [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad) 
+**2019 - Universidad Duke** [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) 
+**2019 - UNAM** [Álgebra Básica](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)  
+**2019 - UNAM** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg) 
 
 ## Contacto
 
