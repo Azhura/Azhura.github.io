@@ -56,11 +56,18 @@ Secundario: Técnico en Informática.
 8. [Machine Learning with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Machine%20Learning%20with%20Python.jpg)   
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
 
-**Plataforma Coursera - Matemáticas,Estadística,Probabilidad,Ciencia de Datos,Programación**     
+**Plataforma Coursera**     
 * **2020 - UNAM** [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad)    
 * **2019 - Universidad Duke** [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)    
 * **2019 - UNAM** [Álgebra Básica](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)     
 * **2019 - UNAM** [Introducción a Data Science: Programación Estadística con R](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Intro_R.jpg)    
+
+**Plataforma Udemy**  
+* **2019** [Programación en C++](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/Cplusplus.jpg) 
+* **2019** [Programación en C](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/C.jpg)    
+* **2019** [Curso completo de Estadística descriptiva - Rstudio y Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ED_Python_R.jpg)    
+* **2019** [Curso básico de Machine Learning](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ML.jpg)     
+* **2019** [Curso completo de Machine Learning: Data Science en Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UDEMY/ML_Ds__page-0001.jpg)  
 
 
 ## Contacto
