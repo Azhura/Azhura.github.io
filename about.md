@@ -11,14 +11,14 @@ Mis conocimientos abarcan múltiples categorias, partiendo desde la programació
 ### Experiencia Laboral
 
 **Freelance - Help Desk - IT Support** 
-**Marzo 2012 - 2020** - (Córdoba Capital, Argentina)  
+**2012 - 2020** - (Córdoba Capital, Argentina)  
 Actividades: Soporte Técnico on site & remoto(TeamView).   
 Instalación de sistemas operativos (Win, Linux, Mac).   
 Reparación y mantenimiento de equipos(PC, Nootebook ,tablet).    
 Seguridad, correo, backup´s. Recuperacion de datos, clonaciones.  
 
 **Why Not? - Diseño - Programación - Composición**   
-**Marzo 2012 - 2015** (Córdoba Capital, Argentina)     
+**2012 - 2015** (Córdoba Capital, Argentina)     
 Actividades: Desarrollo de proyectos digitales (diseño, programación, música).    
 Creación de contenido audiovisual, composiciones musicales, diseño gráfico del producto.  
 
