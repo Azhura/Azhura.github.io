@@ -56,6 +56,10 @@ Secundario: Técnico en Informática.
 8. [Machine Learning with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Machine%20Learning%20with%20Python.jpg)   
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
 
+**Coursera: Matemáticas, Estadística Descriptiva, Probabilidad, Ciencia de Datos, Programación**     
+**2019 - Coursera** - [(Álgebra Básica)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/UNAM/Algebra_basica.jpg)   
+
+
 
 ## Contacto
 
