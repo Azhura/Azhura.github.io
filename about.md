@@ -16,7 +16,6 @@ Actividades: Soporte Técnico on site & remoto(TeamView).
 Instalación de sistemas operativos (Win, Linux, Mac).   
 Reparación y mantenimiento de equipos(PC, Nootebook ,tablet).    
 Seguridad, correo, backup´s. Recuperacion de datos, clonaciones.  
-Desarrollo de proyectos digitales (diseño, programación, música).   
 
 #### Why Not? - (Diseño - Programación - Composición)   
 **Marzo 2012 - 2015 (Córdoba Capital, Argentina)**    
