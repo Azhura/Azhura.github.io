@@ -22,6 +22,11 @@ Seguridad, correo, backup´s. Recuperacion de datos, clonaciones.
 Actividades: Desarrollo de proyectos digitales (diseño, programación, música).    
 Creación de contenido audiovisual, composiciones musicales, diseño gráfico del producto.  
 
+**APEX América - HELP DESK**     
+**2006 - 2012** - (Córdoba Capital, Argentina)   
+Actividades: Soporte Técnico para el cliente Telefónica (Speedy).   
+Redes,seguridad. Servicios adicionales, pruebas de tensión electrica.      
+Seguimientos de tickets y reclamos. Sectores Outbound , Inbound.   
 
 
 ### Contacto
