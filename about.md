@@ -46,9 +46,9 @@ Secundario: Técnico en Informática.
 * [Teledetección SAR - Nivel Introductorio](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele_SAR.jpg)   
 * [Introducción a la Teledetección](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/CONAE/Tele1.jpg)   
 
-**International Business Machines [(IBM)](https://www.ibm.com)**     
-**2020** - [(Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science?)
-* [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg)  
+**International Business Machines [(IBM)](https://www.ibm.com),[(Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science?)**     
+**2020** - [(IBM Data Science Professional Certificate)](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20Data%20Science.jpg) 
+
 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)   
 2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)   
 3. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)   
@@ -56,7 +56,7 @@ Secundario: Técnico en Informática.
 5. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)   
 6. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)  
 7. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)   
-8. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)   
+8. [Machine Learning with Python](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/IBM%20-%20Machine%20Learning%20with%20Python.jpg)   
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
 
 
