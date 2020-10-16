@@ -3,12 +3,10 @@ layout: page
 title: Información Personal
 permalink: /about/
 ---
-### Acerca de
-
 Apasionado por el conocimiento y el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando siempre evolucionar.      
 Mis conocimientos abarcan múltiples categorias, partiendo desde la programación informática , análisis y mantenmimientos de sistemas informáticos, hardware, exploración, visualización y análisis de datos(Big Data), creación de algoritmos inteligentes(machine learning, deep learning), aplicaciones con geolocalización(Satelites Ópticos y SAR) diseño ,creación de productos y simulaciones de modelos virtuales y estadísticos.
 
-### Experiencia Laboral
+## Experiencia Laboral
 
 **Freelance - Help Desk - IT Support**     
 **2012 - 2020** - (Córdoba Capital, Argentina)  
@@ -28,7 +26,7 @@ Actividades: Soporte Técnico para el cliente Telefónica (Speedy).
 Redes,seguridad. Servicios adicionales, pruebas de tensión electrica.      
 Seguimientos de tickets y reclamos. Sectores Outbound , Inbound.   
 
-### Educación
+## Educación
 
 **INSTITUTO SUPERIOR SANTO DOMINGO (ISSD)**     
 **2007 - 2009** - (Córdoba Capital, Argentina)  
@@ -38,7 +36,7 @@ Carrera: Análisis en Sistemas de Información.
 **1995 - 2003** (Posadas Misiones, Argentina)     
 Secundario: Técnico en Informática. 
 
-### Logros y Certificaciones
+## Logros y Certificaciones
 
 **Comisión Nacional De Actividades Espaciales [(CONAE)](https://www.argentina.gob.ar/ciencia/conae/unidad-educacion/cursos-y-capacitaciones)**     
 **2020** - (Córdoba Capital, Argentina)   
@@ -59,6 +57,6 @@ Secundario: Técnico en Informática.
 9. [Applied Data Science Capstone](https://raw.githubusercontent.com/Azhura/Cursos/master/certificaciones/IBM/Applied%20Data%20Science%20Capstone.jpg)   
 
 
-### Contacto
+## Contacto
 
 [carlosprado27@gmail.com](mailto:carlosprado27@gmail.com)
