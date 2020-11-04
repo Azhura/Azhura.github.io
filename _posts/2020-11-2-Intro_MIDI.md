@@ -222,7 +222,8 @@ midi_object = pm.csv_to_midi(csv_string)
 with open("example_converted.mid", "wb") as output_file:
     midi_writer = pm.FileWriter(output_file)
     midi_writer.write(midi_object)
-# El archivo generado example_converted.mid si se reproduce en un reproductor midi deberia funciona perfectamente
+# El archivo generado example_converted.mid 
+# debería funcionar perfectamente si se reproduce
 ```
 **Creando un Data Frame con datos filtrados**
 
