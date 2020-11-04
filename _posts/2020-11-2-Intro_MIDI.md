@@ -224,101 +224,17 @@ with open("example_converted.mid", "wb") as output_file:
     midi_writer.write(midi_object)
 # El archivo generado example_converted.mid si se reproduce en un reproductor midi deberia funciona perfectamente
 ```
-
-**Creando un Data Frame con los datos crudos**
-
-
-```python
-df_midi_object = pd.DataFrame(midi_object)
-df_midi_object.transpose()
-```
-
-
-
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>0</th>
-      <th>1</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>midi.TimeSignatureEvent(tick=0, data=[4, 2, 24...</td>
-      <td>midi.PortEvent(tick=0, data=[0])</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>midi.KeySignatureEvent(tick=0, data=[4, False])</td>
-      <td>midi.TrackNameEvent(tick=0, text=b'1st', data=...</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>midi.SetTempoEvent(tick=0, data=[16, 165, 93])</td>
-      <td>midi.ProgramChangeEvent(tick=0, channel=0, dat...</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>midi.MarkerEvent(tick=0, text=b'1st mvmt', dat...</td>
-      <td>midi.TextMetaEvent(tick=0, text=b'\r', data=b'...</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>midi.MarkerEvent(tick=0, text=b'Transcribed by...</td>
-      <td>midi.ControlChangeEvent(tick=0, channel=0, dat...</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>2630</th>
-      <td>None</td>
-      <td>midi.NoteOnEvent(tick=0, channel=0, data=[52, 0])</td>
-    </tr>
-    <tr>
-      <th>2631</th>
-      <td>None</td>
-      <td>midi.NoteOnEvent(tick=0, channel=0, data=[61, 0])</td>
-    </tr>
-    <tr>
-      <th>2632</th>
-      <td>None</td>
-      <td>midi.NoteOnEvent(tick=0, channel=0, data=[37, 0])</td>
-    </tr>
-    <tr>
-      <th>2633</th>
-      <td>None</td>
-      <td>midi.NoteOnEvent(tick=0, channel=0, data=[44, 0])</td>
-    </tr>
-    <tr>
-      <th>2634</th>
-      <td>None</td>
-      <td>midi.EndOfTrackEvent(tick=0, data=[])</td>
-    </tr>
-  </tbody>
-</table>
-<p>2635 rows × 2 columns</p>
-
-
-
-La información generalmente de esta manera es mas dificil de entender.
-En la columna 0 es referente a la pista 1 tenemos 7 mensajes por lo cual lo que aparece en none es autocompletado por la librería para que no quede vacía. En la columna referente a la pista 2 esta la información de los mensajes del instrumento debe hacer para producir los sonidos.
-
 **Creando un Data Frame con datos filtrados**
 
-
-```
+```python
 df_csv_string = pd.DataFrame(csv_string,columns=['Data'])
 df_csv_string
 ```
 
-Data | 
------------- | 
+Out
+```
+index   |   Data
+-------------------------------------| 
 0	0, 0, Header, 1, 2, 120\n
 1	1, 0, Start_track\n
 2	1, 0, Time_signature, 4, 2, 24, 8\n
@@ -332,6 +248,7 @@ Data |
 2645	0, 0, End_of_file
 
 2646 rows × 1 columns
+```
 
 De esta manera filtramos los datos por fila de un mensaje entero en una sola columna a modo de ejemplo.   
 Para poder desarrollar exploraciones mas avanzadas o realizar gráficas con datos que sean de interes deberemos realizar una limpieza de los datos con el fin de ordenar cada información separada por la coma en una columna independiente. Este trabajo quedará pendiente para otro cuaderno.
