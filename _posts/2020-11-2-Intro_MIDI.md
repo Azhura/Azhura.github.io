@@ -3,7 +3,7 @@ layout: post
 title: Explorando archivos MIDI en Python
 ---
 
-Extracción y manejo de información con archivos digitales **MIDI** | **2-11-2020**
+Extracción y manejo de información con archivos **MIDI**
 
 ## Contenido
 
@@ -236,20 +236,6 @@ df_midi_object.transpose()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -317,7 +303,6 @@ df_midi_object.transpose()
   </tbody>
 </table>
 <p>2635 rows × 2 columns</p>
-</div>
 
 
 
