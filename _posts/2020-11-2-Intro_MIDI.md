@@ -135,15 +135,16 @@ for msg in archivo_midi.tracks[0]:
     
 
 * La información que podemos visualizar en este track es con respecto a metadatos sobre el tiempo de la pista el autor, notas por beat, tiempo , etc. con un total de 7 mensajes en este track.
+
+```
 # Código opcional : Para recorrer todo el archivo 
 for i, track in enumerate(archivo_midi.tracks):
     print('Track {}: {}'.format(i, track.name))
     for msg in track:
         print(msg)
 * Con este código podremos visualizar el archivo completo en ambos track´s
-
+```
 #### Conviertiendo "archivo_midi" a una lista 
-
 
 ```python
 # Transformando a una lista para poder observar las 15 primeras filas.
