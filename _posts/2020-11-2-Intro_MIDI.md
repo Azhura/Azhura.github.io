@@ -326,86 +326,26 @@ En la columna 0 es referente a la pista 1 tenemos 7 mensajes por lo cual lo que 
 **Creando un Data Frame con datos filtrados**
 
 
-```python
+```
 df_csv_string = pd.DataFrame(csv_string,columns=['Data'])
 df_csv_string
 ```
 
+Data | 
+------------ | 
+0	0, 0, Header, 1, 2, 120\n
+1	1, 0, Start_track\n
+2	1, 0, Time_signature, 4, 2, 24, 8\n
+3	1, 0, Key_signature, 4, "major"\n
+4	1, 0, Tempo, 1090909\n
+...	...
+2641	2, 33126, Note_on_c, 0, 61, 0\n
+2642	2, 33126, Note_on_c, 0, 37, 0\n
+2643	2, 33126, Note_on_c, 0, 44, 0\n
+2644	2, 33126, End_track\n
+2645	0, 0, End_of_file
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Data</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>0, 0, Header, 1, 2, 120\n</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1, 0, Start_track\n</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1, 0, Time_signature, 4, 2, 24, 8\n</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>1, 0, Key_signature, 4, "major"\n</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>1, 0, Tempo, 1090909\n</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>2641</th>
-      <td>2, 33126, Note_on_c, 0, 61, 0\n</td>
-    </tr>
-    <tr>
-      <th>2642</th>
-      <td>2, 33126, Note_on_c, 0, 37, 0\n</td>
-    </tr>
-    <tr>
-      <th>2643</th>
-      <td>2, 33126, Note_on_c, 0, 44, 0\n</td>
-    </tr>
-    <tr>
-      <th>2644</th>
-      <td>2, 33126, End_track\n</td>
-    </tr>
-    <tr>
-      <th>2645</th>
-      <td>0, 0, End_of_file</td>
-    </tr>
-  </tbody>
-</table>
-<p>2646 rows × 1 columns</p>
-</div>
-
-
+2646 rows × 1 columns
 
 De esta manera filtramos los datos por fila de un mensaje entero en una sola columna a modo de ejemplo.   
 Para poder desarrollar exploraciones mas avanzadas o realizar gráficas con datos que sean de interes deberemos realizar una limpieza de los datos con el fin de ordenar cada información separada por la coma en una columna independiente. Este trabajo quedará pendiente para otro cuaderno.
