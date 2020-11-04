@@ -147,7 +147,8 @@ for i, track in enumerate(archivo_midi.tracks):
 #### Conviertiendo "archivo_midi" a una lista 
 
 ```python
-# Transformando a una lista para poder observar las 15 primeras filas.
+# Transformando a una lista para observar 
+# las 15 primeras filas.
 lista = list(archivo_midi)
 lista[0:15]
 ```
