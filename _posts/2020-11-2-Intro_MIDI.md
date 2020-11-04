@@ -231,9 +231,9 @@ df_csv_string = pd.DataFrame(csv_string,columns=['Data'])
 df_csv_string
 ```
 
-Out
+__Out__
 ```
-index   |   Data
+index |     Data
 -------------------------------------| 
 0	0, 0, Header, 1, 2, 120\n
 1	1, 0, Start_track\n
