@@ -3,7 +3,6 @@ layout: post
 title: Explorando archivos MIDI en Python
 ---
 
-# Explorando archivos MIDI en Python
 Extracción y manejo de información con archivos digitales **MIDI** | **2-11-2020**
 
 ## Contenido
