@@ -1,10 +1,12 @@
+---
+layout: post
+title: Explorando archivos MIDI en Python
+---
 
 # Explorando archivos MIDI en Python
-**Autor:** Carlos Alberto Gómez Prado | **2-11-2020**
+Extracción y manejo de información con archivos digitales **MIDI** | **2-11-2020**
 
 ## Contenido
-
-**Objetivo:**  Extracción y manejo de información con archivos digitales **MIDI**.
 
 1.Introducción   
   * 1.1 Reseña (**MIDI**)    
