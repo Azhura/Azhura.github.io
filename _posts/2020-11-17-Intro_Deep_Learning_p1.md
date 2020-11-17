@@ -57,11 +57,11 @@ En base a la información conocida en las décadas de 1950 y 1960 fue elaborado 
 
 En el Laboratorio Aeronáutico de Cornell en el año 1957 , [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) construyó un dispositivo electrónico, siguiendo los principios biológicos de las neuronas demostrando capacidad para aprender. los cuales se simularon inicialmente en una computadora [IBM 704](https://en.wikipedia.org/wiki/IBM_704), cuando se sostenía un triángulo ante el ojo del perceptrón, este captaba la imagen y la transmitía a lo largo de una sucesión aleatoria de líneas a las unidades de respuesta, donde se registró la imagen. 
 
-**"Perceptron Research from the 50's & 60's :"** En el siguiente video podemos ver un fragmento de un documental llamado "The Machine that Changed the World" en donde se muestra el funcionamiento del dispositivo, el cual desde imagenes de hombres y mujeres predice su género.
+![](https://www.simplilearn.com/ice9/free_resources_article_thumb/emergence-of-perceptron-with-diagram-of-simplified-model.jpg)
+
+**"Perceptron Research from the 50's & 60's :"** En el siguiente video podemos ver un fragmento de un documental llamado "The Machine that Changed the World" en donde se muestra el funcionamiento del dispositivo, el cual desde imagenes de hombres y mujeres predice su género. [ver video](https://www.youtube.com/watchv=cNxadbrN_aI&ab_channel=ArxivInsights)
 
 [![Perceptrón](https://upload.wikimedia.org/wikipedia/commons/7/7d/IBM_704_mainframe.gif)](https://www.youtube.com/watch?v=cNxadbrN_aI&ab_channel=ArxivInsights)
-
-![](https://www.simplilearn.com/ice9/free_resources_article_thumb/emergence-of-perceptron-with-diagram-of-simplified-model.jpg)
 
 Mucho tiempo en el cajon guardado esta tecnología no fue explotada y fue descartada dado que aun faltaban piezas claves para el desarrollo inteligente de los modelos matemáticos y la complejidad de cálculo estaba limitada al hardware de la época.
 
