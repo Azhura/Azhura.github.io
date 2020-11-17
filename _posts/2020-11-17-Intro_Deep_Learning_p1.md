@@ -2,7 +2,7 @@
 layout: post
 title: Redes Neuronales Artificiales
 ---
-Introducción al Deep Learning
+Parte 1: Introducción al Deep Learning
 
 ## Contenido
 
@@ -59,7 +59,7 @@ En el Laboratorio Aeronáutico de Cornell en el año 1957 , [Frank Rosenblatt](h
 
 ![](https://www.simplilearn.com/ice9/free_resources_article_thumb/emergence-of-perceptron-with-diagram-of-simplified-model.jpg)
 
-**"Perceptron Research from the 50's & 60's :"** En el siguiente video podemos ver un fragmento de un documental llamado "The Machine that Changed the World" en donde se muestra el funcionamiento del dispositivo, el cual desde imagenes de hombres y mujeres predice su género. [ver video](https://www.youtube.com/watchv=cNxadbrN_aI&ab_channel=ArxivInsights)
+**"Perceptron Research from the 50's & 60's :"** En el siguiente video podemos ver un fragmento de un documental llamado "The Machine that Changed the World" en donde se muestra el funcionamiento del dispositivo, el cual desde imagenes de hombres y mujeres predice su género. [ver video](https://www.youtube.com/watch?v=cNxadbrN_aI&ab_channel=ArxivInsights)
 
 [![Perceptrón](https://upload.wikimedia.org/wikipedia/commons/7/7d/IBM_704_mainframe.gif)](https://www.youtube.com/watch?v=cNxadbrN_aI&ab_channel=ArxivInsights)
 
