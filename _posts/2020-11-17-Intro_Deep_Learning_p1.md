@@ -10,9 +10,7 @@ Introducción al Deep Learning
    * [1.1.La Neurona](#1.1.La_Neurona)
    * [1.2.El Perceptrón](#1.2.El_Perceptrón)
 
-[3.Conclusión](#3.Conclusión)   
-
-[4.Recursos](#4.Recursos)   
+[2.Recursos](#2.Recursos)   
 
 
 ## 1.Introducción
@@ -88,13 +86,13 @@ Mucho tiempo en el cajon guardado esta tecnología no fue explotada y fue descar
 
 Este modelo básico tiene sus limitaciones para resolver problemas complejos ya que una neurona por si sola,solo puede resolver pequeñas pruebas y al tener varias entradas los resultados siempre son lineales, con los años se desarrollaron varios modelos y para dar mayor poder de cálculo y la no linealidad que se necesita para el desarrollo actual de los proyectos de hoy en día se utilizan funciones de activación, tema que trataremos en la proxima parte.
 
-## 3.Conclusión
+---
 
-
-
-## 4.Recursos
+## 2.Recursos
 
 [Neurona](https://es.wikipedia.org/wiki/Neurona)     
 [The Machine that Changed the World](https://www.youtube.com/watch?v=enWWlx7-t0k&ab_channel=LeonardoRomandaRosa)   
 [Deep Tutorial ANN](https://www.kaggle.com/shrutimechlearn/deep-tutorial-1-ann-and-classification)
+[ryanholbrook](https://www.kaggle.com/ryanholbrook/a-single-neuron)   
+[Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
 
