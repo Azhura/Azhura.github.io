@@ -77,7 +77,7 @@ Mucho tiempo en el cajon guardado esta tecnología no fue explotada y fue descar
 
 **Umbral:** La **b** es un tipo especial de peso que llamamos el sesgo y en su lugar, ponemos un **w0 = 1** en el diagrama para que el valor que llega a la neurona sea sólo b ya que **1b = b**. El sesgo permite al perceptrón modificar la salida independientemente de sus entradas.   
 
-**Salida:** La $y$ es la salida de la neurona en la cual se determina por la suma ponderada de:   
+**Salida:** La **y** es la salida de la neurona en la cual se determina por la suma ponderada de:   
 
 ![](https://raw.githubusercontent.com/Azhura/Cursos/master/imagenes/Latex/latex_01.jpg)
 
