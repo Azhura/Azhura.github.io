@@ -71,7 +71,23 @@ Mucho tiempo en el cajon guardado esta tecnología no fue explotada y fue descar
 
 ![](https://raw.githubusercontent.com/Azhura/Cursos/master/imagenes/DL/Neurona.png)   
 
+**Entradas:** **x1,x2,x3** son las entradas de información de la neurona.Una perceptrón, puede tener una o mas entradas binarias(1 o 0).  
+
+**Pesos:** **w1, w2, w3** son números reales que expresan la importancia de las respectivas entradas a la salida.Cada vez que un valor fluye a través de una conexión, se multiplica el valor por el peso de la conexión. Para la entrada **x**, lo que llega a la neurona es **w * x**. 
+
+**Umbral:** La **b** es un tipo especial de peso que llamamos el sesgo y en su lugar, ponemos un **w0 = 1** en el diagrama para que el valor que llega a la neurona sea sólo b ya que **1b = b**. El sesgo permite al perceptrón modificar la salida independientemente de sus entradas.   
+
+**Salida:** La $y$ es la salida de la neurona en la cual se determina por la suma ponderada de:   
+
 ![](https://raw.githubusercontent.com/Azhura/Cursos/master/imagenes/Latex/latex_01.jpg)
+
+**¿Que podemos hacer con una neurona?**   
+- Permite hacer funciones lógicas   
+- Primera aproximación a las redes neuronales   
+- Capacidad de computación universal    
+
+Este modelo básico tiene sus limitaciones para resolver problemas complejos ya que una neurona por si sola,solo puede resolver pequeñas pruebas y al tener varias entradas los resultados siempre son lineales, con los años se desarrollaron varios modelos y para dar mayor poder de cálculo y la no linealidad que se necesita para el desarrollo actual de los proyectos de hoy en día se utilizan funciones de activación, tema que trataremos en la proxima parte.   
+
 ---
 
 ## 2.Recursos
