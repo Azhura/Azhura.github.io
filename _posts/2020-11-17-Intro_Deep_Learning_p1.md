@@ -86,7 +86,7 @@ Mucho tiempo en el cajon guardado esta tecnología no fue explotada y fue descar
 - Primera aproximación a las redes neuronales   
 - Capacidad de computación universal    
 
-Este modelo básico tiene sus limitaciones para resolver problemas complejos ya que una neurona por si sola,solo puede resolver pequeñas pruebas y al tener varias entradas los resultados siempre son lineales, con los años se desarrollaron varios modelos y para dar mayor poder de cálculo y la no linealidad que se necesita para el desarrollo actual de los proyectos de hoy en día se utilizan funciones de activación, tema que trataremos en la proxima parte.   
+Este modelo básico tiene sus limitaciones para resolver problemas complejos ya que una neurona por si sola,solo puede resolver pequeñas pruebas y sin embargo al tener 1 o mas entradas los resultados siempre son lineales, con los años se desarrollaron varios modelos y para dar mayor poder de cálculo y la no linealidad que se necesita para el desarrollo actual de los proyectos de hoy en día se utilizan funciones de activación, tema que trataremos en la proxima parte.   
 
 ---
 
