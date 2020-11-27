@@ -36,7 +36,7 @@ Estructura básica de una RNC o CNN
 
 * La imagen resultante es la combinación del estilo de Edvard Munch aplicada a la fotografía original.
 
-Realmente he pasado varias horas de diversión con este código, y no deja de sorprenderme la complejidad de cosas que se pueden lograr. Te invito a que ingresar [aquí](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization) para implementar este código con TensorFlow.
+Realmente he pasado varias horas de diversión con este código, y no deja de sorprenderme la complejidad de cosas que se pueden lograr. Te invito a ingresar [aquí](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization) para implementar este código con TensorFlow.
 
 ![](https://raw.githubusercontent.com/Azhura/Cursos/master/imagenes/DL/calito_cnn.jpg)
 
