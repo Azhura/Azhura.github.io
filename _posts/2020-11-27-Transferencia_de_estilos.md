@@ -22,7 +22,7 @@ Estructura básica de una RNC o CNN
 
 * La imagen original de la izquierda pertenece a una fotografía de la cañada por el cual pasa el río suquía en la Provincia de Córdoba Argentina.     
 
-* La imagen central llamada "La noche estrellada" Obra de Vincent van Gogh , es la imagen que tomamos para la transferencia del estilo.
+* La imagen central llamada "La noche estrellada" Obra de Vincent van Gogh , es la imagen tomada para la transferencia del estilo.
 
 * La imagen resultante es la combinación del estilo de van Gogh aplicada a la fotografía original, logrando una perfecta adaptación.
 
@@ -32,7 +32,7 @@ Estructura básica de una RNC o CNN
 
 * La imagen original de la izquierda pertenece a una fotografía de la plaza San Martín en la Provincia de Córdoba Argentina.     
 
-* La imagen central llamada "El grito" Obra de Edvard Munch , es la imagen que tomamos para la transferencia del estilo.
+* La imagen central llamada "El grito" Obra de Edvard Munch , es la imagen tomada para la transferencia del estilo.
 
 * La imagen resultante es la combinación del estilo de Edvard Munch aplicada a la fotografía original.
 
