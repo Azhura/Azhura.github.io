@@ -3,6 +3,9 @@ layout: page
 title: Información Personal
 permalink: /about/
 ---
+
+-->> [ASISTENTE VIRTUAL](https://botito0027.herokuapp.com//lite/bot_0027_final/?m=channel-web&v=Fullscreen&options=%7B%22hideWidget%22%3Atrue%2C%22config%22%3A%7B%22enableReset%22%3Atrue%2C%22enableTranscriptDownload%22%3Atrue%7D%7D) <<--
+
 Apasionado por el conocimiento y el continuo aprendizaje, autodidacta por naturaleza, curioso, buscando siempre evolucionar.      
 Mis conocimientos abarcan múltiples categorias, partiendo desde la programación informática , análisis y mantenmimientos de sistemas informáticos, hardware, exploración, visualización y análisis de datos(Big Data), creación de algoritmos inteligentes(machine learning, deep learning), aplicaciones con geolocalización(Satelites Ópticos y SAR) diseño ,creación de productos y simulaciones de modelos virtuales y estadísticos.
 
